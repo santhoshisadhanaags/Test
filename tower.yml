@@ -1,3 +1,0 @@
-reports:
-    '**/output/*.txt':
-        display: "message1"

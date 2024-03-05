@@ -1,0 +1,4 @@
+2024-03-05 12:14:43	-	crazy_gauss	-	b805d2c752ac24ad6e1211b0dcd545aa	25d81f8d-bc21-4117-ba12-aeed688e0eb6	nextflow run stage/main.nf
+2024-03-05 12:14:59	8.9s	spontaneous_noyce	ERR	b805d2c752ac24ad6e1211b0dcd545aa	5b69761c-21d9-4470-b3d8-0f877c968c4e	nextflow run stage/main.nf
+2024-03-05 12:16:42	5.3s	astonishing_faggin	OK	70c156fdfc6f2a478ab0c0ca060d3dc3	ce4eb95c-1ffe-4edd-9769-03dd5bab1b18	nextflow run stage/main.nf
+2024-03-05 12:18:47	5.1s	cheesy_sinoussi	OK	70c156fdfc6f2a478ab0c0ca060d3dc3	69e172da-95c6-4795-ae9e-a09082fe9717	nextflow run stage/main.nf

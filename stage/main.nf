@@ -3,7 +3,7 @@ nextflow.enable.dsl=2
 
 process make_file {
 
-    // container 'test:latest'
+    container 'gss1007/test:latest'
 
     publishDir "${params.outdir}/", mode: 'copy'
 
@@ -19,7 +19,7 @@ process make_file {
 
 process echo_file {
 
-    // container 'test:latest'
+    container 'gss1007/test:latest'
 
     publishDir "${params.outdir}/", mode: 'copy'
 
@@ -30,6 +30,8 @@ process echo_file {
 
     """
     cat ${message_file}
+
+    sh /home/test.sh
 
     """
 }
