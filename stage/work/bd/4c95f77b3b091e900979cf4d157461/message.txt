@@ -1,1 +1,0 @@
-/home/santhoshi.sadhanaa/nextflow-practice/stage/work/1f/e7d82698df28316d045452ec4e9f37/message.txt
